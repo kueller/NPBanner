@@ -1,3 +1,5 @@
+![Rock Band stream screenshot](https://i.imgur.com/L5wh6xC.png)
+
  Adds a banner displaying the current playing song and authors. Use the web browser plugin in OBS and add index.html as a local file.
  
  Text file current.txt should contain the info, formatted as such.
