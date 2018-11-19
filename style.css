@@ -1,0 +1,49 @@
+#banner-start {
+    width: 1193px;
+    height: 113px;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    position: absolute;
+}
+
+#banner-box {
+    width: 1090px;
+    height: 113px;
+    top: 0px;
+    left: 103px;
+    overflow: hidden;
+    position: absolute;
+}
+
+#banner-spread {
+    width: 1090px;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    position: absolute;
+}
+
+#song-text {
+    font-size: 29px;
+    font-family: "Arial";
+    color: #f1f1f1;
+    text-shadow: 2px 2px 4px black;
+    top: 24px;
+    left: 110px;
+    position: absolute;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#author-text {
+    font-size: 23px;
+    font-family: "Sans Serif";
+    color: #f1f1f1;
+    text-shadow: 2px 2px 4px black;
+    top: 56px;
+    left: 110px;
+    position: absolute;
+    overflow: hidden;
+    white-space: nowrap;
+}
